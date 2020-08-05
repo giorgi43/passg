@@ -27,7 +27,9 @@ Options:
 ```
 ## Examples
 `passg -all`
-`mez$9Wo=`
+```
+mez$9Wo=
+```
 
 `passg -all -len 10 -count 5`
 ```
